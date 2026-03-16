@@ -88,3 +88,5 @@ endmodule
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
 **RESULTS**
+
+Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
